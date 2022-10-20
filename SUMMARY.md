@@ -1,5 +1,15 @@
 # Table of contents
 
+## Wichtige Links
+
+* [ArisCorp Homepage](https://www.ariscorp.de)
+* [ArisCorp PTU Seite](https://ptu.ariscorp.de)
+* [ArisCorp Backend](https://cms.ariscorp.de)
+* [ArisCorp Statuspage](https://status.ariscorp.de)
+* [ArisCorp Documentation](https://docs.ariscorp.de)
+
+***
+
 * [Einleitung](README.md)
 * [Introduction](introduction.md)
 
