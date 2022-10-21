@@ -77,7 +77,7 @@ Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes 
 * [ ] Die Website ist jetzt vollständig SEO
 * [ ] Die gesamte Website ist jetzt für Mobilgeräte optimiert
 * [ ] Alle API-Anfragen sind optimiert und haben keinen Overhead mehr
-* [ ] Alle Navigationssymbole sind jetzt im SVG-Format
+* [ ] Fast alle Navigationssymbole sind jetzt im SVG-Format
 
 ### **🛠 Now in Development**
 
