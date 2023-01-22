@@ -36,7 +36,7 @@ Das Backend ist jetzt für Mitgliedskonten vorbereitet!
 
 Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes Mitglied auch seine Biografie / Steckbrief und auch selbst Comm-Links schreiben kann. Außerdem können uns alle Interessierten beim Verfassen der Inhalte helfen.
 
-### **✨ new Features**
+### **✨ New Features**
 
 * [ ] Die Seite Comm-Links haben jetzt eine Volltextsuche und einen Filter für die Kanäle
 * [ ] Die Technologien sind jetzt um einen persönlichen Reiter erweitert
@@ -44,8 +44,9 @@ Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes 
 * [ ] Die API exportiert nun automatisch Daten aus den Game Files und der ShipMatrix für den ShipExkurs
 * [ ] Neue Timeline für den VerseExkurs
 * [ ] Die Navbar hat jetzt Tooltips
+* [ ] [Bug-reporting tool](https://www.ariscorp.de/bug-report) erstellt damit nun alle user einen Bug melden können.
 
-### **🚀 improvements**
+### **🚀 Improvements**
 
 * [ ] Das Tab-System wurde mit viel besserer Leistung neu geschrieben
 * [ ] Die API basiert jetzt auf GraphQL
@@ -63,14 +64,18 @@ Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes 
 * [ ] Die Technologien wurden für eine bessere Benutzerfreundlichkeit neu kodiert
 * [ ] Die gesamte Website hat jetzt eine Bildoptimierungs- und -bearbeitung Engine
 * [ ] Die Website ist jetzt eine PWA
+* [ ] Outpost Construction Abteilung auf der Homepage hinzugefügt
+* [ ] Drone Control Room auf der Carrack im Tech Index hinzugefügt.
 
-### **🐛 Fixes**
+### **🐛 Bug Fixes**
 
 * [ ] Alle Seitentitel sind jetzt korrekt
 * [ ] Metadaten sind jetzt korrekt
 * [ ] Alle Layoutfehler sind jetzt behoben
 * [ ] Der Leuchteffekt der Navbar-Symbole ist nicht mehr in verschiedenen Farben
 * [ ] Die Seitenleiste von VerseExkurs überlappt keine Website-Inhalte mehr
+* [ ] Fehlende Radar Kammer im Tech Index hinzugefügt
+* [ ] VerseExkurs Sidebar glow Effect für nested routes hinzugefügt
 
 ### **🧽 Optimizations**
 
@@ -78,10 +83,11 @@ Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes 
 * [ ] Die gesamte Website ist jetzt für Mobilgeräte optimiert
 * [ ] Alle API-Anfragen sind optimiert und haben keinen Overhead mehr
 * [ ] Fast alle Navigationssymbole sind jetzt im SVG-Format
+* [ ] Technologie Index Carrack ist nun eine SVG
 
 ### **🛠 Now in Development**
 
 * [ ] Der ShipExkurs
 * [ ] Der Amor Index
 * [ ] Internes Dashboard für Member-Hangars mit einer ShipExkurs-Integration
-* [ ] Neues Changelog-System
+* [ ] Neues Changelog System
