@@ -38,56 +38,56 @@ Jetzt hat jedes Mitglied ein eigenes Konto im Backend, was bedeutet, dass jedes 
 
 ### **✨ New Features**
 
-* [ ] Die Seite Comm-Links haben jetzt eine Volltextsuche und einen Filter für die Kanäle
-* [ ] Die Technologien sind jetzt um einen persönlichen Reiter erweitert
-* [ ] Die Technologien werden jetzt um den Waffen Index erweitert
-* [ ] Die API exportiert nun automatisch Daten aus den Game Files und der ShipMatrix für den ShipExkurs
-* [ ] Neue Timeline für den VerseExkurs
-* [ ] Die Navbar hat jetzt Tooltips
-* [ ] [Bug-reporting tool](https://www.ariscorp.de/bug-report) erstellt damit nun alle user einen Bug melden können.
+- [ ] Die Seite Comm-Links haben jetzt eine Volltextsuche und einen Filter für die Kanäle
+- [ ] Die Technologien sind jetzt um einen persönlichen Reiter erweitert
+- [ ] Die Technologien werden jetzt um den Waffen Index erweitert
+- [ ] Die API exportiert nun automatisch Daten aus den Game Files und der ShipMatrix für den ShipExkurs
+- [ ] Neue Timeline für den VerseExkurs
+- [ ] Die Navbar hat jetzt Tooltips
+- [ ] [Bug-reporting tool](https://www.ariscorp.de/bug-report) erstellt damit nun alle user einen Bug melden können.
 
 ### **🚀 Improvements**
 
-* [ ] Das Tab-System wurde mit viel besserer Leistung neu geschrieben
-* [ ] Die API basiert jetzt auf GraphQL
-* [ ] Die Charta ist jetzt viel strukturierter
-* [ ] Die Comm-Link-Seite hat ein neues Layoutsystem
-* [ ] Die Seitenleiste vom VerseExkurs wurde komplett neu geschrieben und für eine bessere Leistung und Benutzerfreundlichkeit neu gestaltet
-* [ ] Die Starmap wurde für eine bessere Leistung neu geschrieben
-* [ ] Die Starmap hat neue Popup-Fenster
-* [ ] Das Karussell der Versegeschichte wurde auf einer neuen Technologie neu geschrieben
-* [ ] Die Alienrassen sind jetzt in separate Tabs aufgeteilt
-* [ ] Die Alienrassen hat jetzt viel mehr Informationen
-* [ ] Die Tiere sind jetzt in einzelne Artikel aufgeteilt
-* [ ] Die Pflanzen sind jetzt in separate Kategorien und Artikel aufgeteilt
-* [ ] Der UEE-Bereich ist jetzt in separate Tabs aufgeteilt
-* [ ] Die Technologien wurden für eine bessere Benutzerfreundlichkeit neu kodiert
-* [ ] Die gesamte Website hat jetzt eine Bildoptimierungs- und -bearbeitung Engine
-* [ ] Die Website ist jetzt eine PWA
-* [ ] Outpost Construction Abteilung auf der Homepage hinzugefügt
-* [ ] Drone Control Room auf der Carrack im Tech Index hinzugefügt.
+- [ ] Das Tab-System wurde mit viel besserer Leistung neu geschrieben
+- [ ] Die API basiert jetzt auf GraphQL
+- [ ] Die Charta ist jetzt viel strukturierter
+- [ ] Die Comm-Link-Seite hat ein neues Layoutsystem
+- [ ] Die Seitenleiste vom VerseExkurs wurde komplett neu geschrieben und für eine bessere Leistung und Benutzerfreundlichkeit neu gestaltet
+- [ ] Die Starmap wurde für eine bessere Leistung neu geschrieben
+- [ ] Die Starmap hat neue Popup-Fenster
+- [ ] Das Karussell der Versegeschichte wurde auf einer neuen Technologie neu geschrieben
+- [ ] Die Alienrassen sind jetzt in separate Tabs aufgeteilt
+- [ ] Die Alienrassen hat jetzt viel mehr Informationen
+- [ ] Die Tiere sind jetzt in einzelne Artikel aufgeteilt
+- [ ] Die Pflanzen sind jetzt in separate Kategorien und Artikel aufgeteilt
+- [ ] Der UEE-Bereich ist jetzt in separate Tabs aufgeteilt
+- [ ] Die Technologien wurden für eine bessere Benutzerfreundlichkeit neu kodiert
+- [ ] Die gesamte Website hat jetzt eine Bildoptimierungs- und -bearbeitung Engine
+- [ ] Die Website ist jetzt eine PWA
+- [ ] Outpost Construction Abteilung auf der Homepage hinzugefügt
+- [ ] Drone Control Room auf der Carrack im Tech Index hinzugefügt.
 
 ### **🐛 Bug Fixes**
 
-* [ ] Alle Seitentitel sind jetzt korrekt
-* [ ] Metadaten sind jetzt korrekt
-* [ ] Alle Layoutfehler sind jetzt behoben
-* [ ] Der Leuchteffekt der Navbar-Symbole ist nicht mehr in verschiedenen Farben
-* [ ] Die Seitenleiste von VerseExkurs überlappt keine Website-Inhalte mehr
-* [ ] Fehlende Radar Kammer im Tech Index hinzugefügt
-* [ ] VerseExkurs Sidebar glow Effect für nested routes hinzugefügt
+- [ ] Alle Seitentitel sind jetzt korrekt
+- [ ] Metadaten sind jetzt korrekt
+- [ ] Alle Layoutfehler sind jetzt behoben
+- [ ] Der Leuchteffekt der Navbar-Symbole ist nicht mehr in verschiedenen Farben
+- [ ] Die Seitenleiste von VerseExkurs überlappt keine Website-Inhalte mehr
+- [ ] Fehlende Radar Kammer im Tech Index hinzugefügt
+- [ ] VerseExkurs Sidebar glow Effect für nested routes hinzugefügt
 
 ### **🧽 Optimizations**
 
-* [ ] Die Website ist jetzt vollständig SEO
-* [ ] Die gesamte Website ist jetzt für Mobilgeräte optimiert
-* [ ] Alle API-Anfragen sind optimiert und haben keinen Overhead mehr
-* [ ] Fast alle Navigationssymbole sind jetzt im SVG-Format
-* [ ] Technologie Index Carrack ist nun eine SVG
+- [ ] Die Website ist jetzt vollständig SEO
+- [ ] Die gesamte Website ist jetzt für Mobilgeräte optimiert
+- [ ] Alle API-Anfragen sind optimiert und haben keinen Overhead mehr
+- [ ] Fast alle Navigationssymbole sind jetzt im SVG-Format
+- [ ] Technologie Index Carrack ist nun eine SVG
 
 ### **🛠 Now in Development**
 
-* [ ] Der ShipExkurs
-* [ ] Der Amor Index
-* [ ] Internes Dashboard für Member-Hangars mit einer ShipExkurs-Integration
-* [ ] Neues Changelog System
+- [ ] Der ShipExkurs
+- [ ] Der Amor Index
+- [ ] Internes Dashboard für Member-Hangars mit einer ShipExkurs-Integration
+- [ ] Neues Changelog System
