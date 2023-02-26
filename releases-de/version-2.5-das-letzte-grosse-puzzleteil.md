@@ -6,7 +6,7 @@ coverY: 0
 
 # Version 2.5: Das letzte große Puzzleteil
 
-### **📢 Introduction**
+## **📢 Introduction**
 
 **Hier sind wir mit dem Update 2.5!**
 
@@ -27,7 +27,7 @@ Zusätzlich haben wir für jedes Schiff die [ArisCorp Wertung](https://ariscorp.
 
 #### Zukünftige Features
 
-Es folgen noch weitere Funktionen wie eine Vergleichsseite, alle Q&As auf der jeweilligen Schiffsseite übersetzt, Eine Übersichtsseite dafür, welche Fahrzeuge und Schiffe in welche Schiffe passen, wo man welche Schiffe kaufen kann, ein booklet änlicher Viewer für Broschüren, ein 3d Viewer für jedes Schiffsmodell und noch mehr!
+Es folgen noch weitere Funktionen wie eine Vergleichsseite, alle Q\&As auf der jeweilligen Schiffsseite übersetzt, Eine Übersichtsseite dafür, welche Fahrzeuge und Schiffe in welche Schiffe passen, wo man welche Schiffe kaufen kann, ein booklet änlicher Viewer für Broschüren, ein 3d Viewer für jedes Schiffsmodell und noch mehr!
 
 Zusätzlich sind wir dabei ein eigenes tool für das unpacken der P4K Daten zu entwickeln. Dieses würde 100%ige korrektheit und Aktualität unserer Daten bedeuten. Dazu wären sie kurz nach einem Patch direkt auf der Website vorhanden. Dieses Tool wird auch öffentlich zugänglich sein!
 
@@ -45,27 +45,27 @@ Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://arisco
 
 ### **✨ New Features**
 
-- [Major Feature 1](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-1): ShipExkurs
-- [Major Feature 2](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-2): Attachment Index
-- [Major Feature 2](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-3): Neue Biografie Sektion
-- VerseExkurs(Firmen): Es werden nun [Produkte einer Firma](https://ptu.ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) aufgelistet.
-- VerseExkurs(Technologien): Der Waffen Index hat nun Hersteller als Filter Funktion
+* [Major Feature 1](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-1): ShipExkurs
+* [Major Feature 2](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-2): Attachment Index
+* [Major Feature 3](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-3): Neue Biografie Sektion
+* VerseExkurs(Firmen): Es werden nun [Produkte einer Firma](https://ptu.ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) aufgelistet.
+* VerseExkurs(Technologien): Der Waffen Index hat nun Hersteller als Filter Funktion
 
 ### **🚀 Improvements**
 
-- VerseExkurs(Technologien): Die Waffen Index Auswahlkarten wurden reworked
-- VerseExkurs(Technologien): Die Waffen Index-Auswahlseite wurde reworked
-- VerseExkurs(Technologien): Die Waffen Index Detailseite wurde reworked
-- VerseExkurs(Timeline): Der Link zu One Day in History ist nun eindeutiger als Link gekennzeichnet
+* VerseExkurs(Technologien): Die Waffen Index Auswahlkarten wurden reworked
+* VerseExkurs(Technologien): Die Waffen Index-Auswahlseite wurde reworked
+* VerseExkurs(Technologien): Die Waffen Index Detailseite wurde reworked
+* VerseExkurs(Timeline): Der Link zu One Day in History ist nun eindeutiger als Link gekennzeichnet
 
 ### **🐛 Bug Fixes**
 
-- Homepage(Metadaten): Die Website hat nun keinen Schreibfehler mehr im Titel
-- Homepage(Gameplays): Icons haben nun keine Border mehr
-- VerseExkurs(Technologien): Der Gravitationsgenerator bei den Schiffstechnologien hat nun den richtigen Link
-- VerseExkurs(Technologien): Waffen Index Detailseite - Die Schadenstabelle zeigt nun keine Platzhalter mehr an
-- VerseExkurs(Technologien): Bei den Schiffstechnologien fehlt nun kein Icon mehr für die Lebenserhaltung
-- VerseExkurs(Spectrum & Literatur): Beschreibungen wurden nicht in der Liste angezeigt
+* Homepage(Metadaten): Die Website hat nun keinen Schreibfehler mehr im Titel
+* Homepage(Gameplays): Icons haben nun keine Border mehr
+* VerseExkurs(Technologien): Der Gravitationsgenerator bei den Schiffstechnologien hat nun den richtigen Link
+* VerseExkurs(Technologien): Waffen Index Detailseite - Die Schadenstabelle zeigt nun keine Platzhalter mehr an
+* VerseExkurs(Technologien): Bei den Schiffstechnologien fehlt nun kein Icon mehr für die Lebenserhaltung
+* VerseExkurs(Spectrum & Literatur): Beschreibungen wurden nicht in der Liste angezeigt
 
 ## <mark style="color:yellow;">⚠️ Disclaimer</mark>:
 
@@ -75,15 +75,15 @@ Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://arisco
 
 ### **🛠 Now in Development**
 
-- [Weitere Features des ShipExkurs](version-2.5-das-letzte-grosse-puzzleteil.md#zukuenftige-features)
-- Der Amor Index
-- Interner Bereich mit Sektionen für jede Abteilung, Missionsersteller, Schiff Loadout creator und vielem mehr!
+* [Weitere Features des ShipExkurs](version-2.5-das-letzte-grosse-puzzleteil.md#zukuenftige-features)
+* Der Amor Index
+* Interner Bereich mit Sektionen für jede Abteilung, Missionsersteller, Schiff Loadout creator und vielem mehr!
 
 ### **🛠 Features für zukünftige Versionen**
 
-- ArisCorp Komponenten Index
-- ArisCorp Medizinausrüstungs Index
-- ArisCorp Werkzeug Index
-- ArisCorp Schiffswaffen Index
-- ArisCorp P4K Unpacking Tool
-- Neues Changelog und Doc System
+* ArisCorp Komponenten Index
+* ArisCorp Medizinausrüstungs Index
+* ArisCorp Werkzeug Index
+* ArisCorp Schiffswaffen Index
+* ArisCorp P4K Unpacking Tool
+* Neues Changelog und Doc System
