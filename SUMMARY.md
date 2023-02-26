@@ -20,6 +20,7 @@
 * [Version 1.0: Die Entwicklung](releases-de/version-1.0-die-entwicklung.md)
 * [Version 1.5: Das neue Gehirn](releases-de/version-1.5-das-neue-gehirn.md)
 * [Version 2.0: Die Zukunft](releases-de/version-2.0-die-zukunft.md)
+* [Version 2.5: Das letzte große Puzzleteil](releases-de/version-2.5-das-letzte-grosse-puzzleteil.md)
 
 ## Releases - EN
 
@@ -28,3 +29,4 @@
 * [Version 1.0: The development](releases-en/version-1.0-the-development.md)
 * [Version 1.5: The new brain](releases-en/version-1.5-the-new-brain.md)
 * [Version 2.0: The Future](releases-en/version-2.0-the-future.md)
+* [Version 2.5: The last big puzzle piece](releases-en/version-2.5-the-last-big-puzzle-piece.md)
