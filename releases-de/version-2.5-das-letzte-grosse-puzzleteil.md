@@ -86,4 +86,4 @@ Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://arisco
 * ArisCorp Werkzeug Index
 * ArisCorp Schiffswaffen Index
 * ArisCorp P4K Unpacking Tool
-* Neues Changelog und Doc System
+* Neues Changelog, Release-Notes und Doc System

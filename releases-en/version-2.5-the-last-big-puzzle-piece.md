@@ -25,15 +25,15 @@ What specifications they have, the lore behind the ship, loaners, paints and var
 
 In addition, we have introduced the ArisCorp rating for each ship.\
 An individually by us created rating of each ship that exists in the verse.\
-A ship is evaluated in different objective points and compared with similar ships. \
+A ship is evaluated in different objective points and compared with similar ships.\
 Then there is one of our subjective opinions.
 
 #### Future features
 
-Other functions follow, such as a comparison page, all ship q&a's on the ship page translated, an overview page for which vehicles and ships fit into which ships, where you can buy which ships, a booklet like reader for brochures, a 3d viewer for each ship model and more!
+Other functions follow, such as a comparison page, all ship q\&a's on the ship page translated, an overview page for which vehicles and ships fit into which ships, where you can buy which ships, a booklet like reader for brochures, a 3d viewer for each ship model and more!
 
-In addition, we are in the process of developing our very own P4K Unpacking Tool. \
-That would mean 100% accuracy **and** timeliness of our data with up to only max 1h after live patch! \
+In addition, we are in the process of developing our very own P4K Unpacking Tool.\
+That would mean 100% accuracy **and** timeliness of our data with up to only max 1h after live patch!\
 This tool will also be public available!
 
 ### **✨ Major Feature 2**
@@ -50,27 +50,27 @@ Additionally we have created an integration for the [ShipExkurs](https://ariscor
 
 ### **✨ New Features**
 
-- [Major Feature 1](version-2.5-the-last-big-puzzle-piece.md#major-feature-1): ShipExkurs
-- [Major Feature 2](version-2.5-the-last-big-puzzle-piece.md#major-feature-2): Attachment index
-- [Major Feature 3](version-2.5-the-last-big-puzzle-piece.md#major-feature-3): New biography section
-- VerseExkurs(Companies): [Products from one company](https://ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) are now listed.
-- VerseExkurs(Technologies): The weapon index now has manufacturer as a filter function
+* [Major Feature 1](version-2.5-the-last-big-puzzle-piece.md#major-feature-1): ShipExkurs
+* [Major Feature 2](version-2.5-the-last-big-puzzle-piece.md#major-feature-2): Attachment index
+* [Major Feature 3](version-2.5-the-last-big-puzzle-piece.md#major-feature-3): New biography section
+* VerseExkurs(Companies): [Products from one company](https://ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) are now listed.
+* VerseExkurs(Technologies): The weapon index now has manufacturer as a filter function
 
 ### **🚀 Improvements**
 
-- VerseExkurs(Technologies): The weapon index cards has been reworked
-- VerseExkurs(Technologies): The weapon index selection page has been reworked
-- VerseExkurs(Technologies): The weapon index detail page hasbeen reworked
-- VerseExkurs(Timeline): The link to One Day in History is now now clearly marked as a link
+* VerseExkurs(Technologies): The weapon index cards has been reworked
+* VerseExkurs(Technologies): The weapon index selection page has been reworked
+* VerseExkurs(Technologies): The weapon index detail page hasbeen reworked
+* VerseExkurs(Timeline): The link to One Day in History is now now clearly marked as a link
 
 ### **🐛 Bug Fixes**
 
-- Homepage(Metadata): The website now no longer has misspelling in the title
-- Homepage(Gameplays): Icons no longer have borders
-- VerseExkurs(Technologies): The gravity generator in the ship technologies now has correct link
-- VerseExkurs(Technologies): Weapon index detail page - The damage now no longer shows placeholders
-- VerseExkurs(Technologies): Ship technologies are now no longer missing an icon for life support
-- VerseExkurs(Spectrum & Literatur): Descriptions were not displayed in the list
+* Homepage(Metadata): The website now no longer has misspelling in the title
+* Homepage(Gameplays): Icons no longer have borders
+* VerseExkurs(Technologies): The gravity generator in the ship technologies now has correct link
+* VerseExkurs(Technologies): Weapon index detail page - The damage now no longer shows placeholders
+* VerseExkurs(Technologies): Ship technologies are now no longer missing an icon for life support
+* VerseExkurs(Spectrum & Literatur): Descriptions were not displayed in the list
 
 ## <mark style="color:yellow;">⚠️ Disclaimer:</mark>
 
@@ -80,16 +80,15 @@ Additionally we have created an integration for the [ShipExkurs](https://ariscor
 
 ### **🛠 Now in Development**
 
-- [Further features of the ShipExkurs](version-2.5-the-last-big-puzzle-piece.md#future-features)
-
-- The armor index
-- Internal area with sections for departments, mission creator, ship loadout creator and many more!
+* [Further features of the ShipExkurs](version-2.5-the-last-big-puzzle-piece.md#future-features)
+* The armor index
+* Internal area with sections for departments, mission creator, ship loadout creator and many more!
 
 ### **🛠 Features für zukünftige Versionen**
 
-- ArisCorp component index
-- ArisCorp medical equipment index
-- ArisCorp tools index
-- ArisCorp shipweapon index
-- ArisCorp P4K Unpacking Tool
-- new changelog and doc system
+* ArisCorp component index
+* ArisCorp medical equipment index
+* ArisCorp tools index
+* ArisCorp shipweapon index
+* ArisCorp P4K Unpacking Tool
+* new changelog, release-notes and doc system
