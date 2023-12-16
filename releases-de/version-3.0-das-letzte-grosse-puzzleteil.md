@@ -4,13 +4,13 @@ cover: >-
 coverY: 0
 ---
 
-# Version 2.5: Das letzte große Puzzleteil
+# Version 3.0: Das letzte große Puzzleteil
 
 ## **📢 Introduction**
 
-**Hier sind wir mit dem Update 2.5!**
+**Hier sind wir mit dem Update 3.0!**
 
-Das Update 2.5 ist ein weiterer großer Schritt für die ArisCorp Website! Es ist das letzte große Puzzleteil das auf der Website gefehlt hat.
+Das Update 3.0 ist ein weiterer großer Schritt für die ArisCorp Website! Es ist das letzte große Puzzleteil das auf der Website gefehlt hat.
 
 ### **✨ Major Feature 1**
 
@@ -27,32 +27,45 @@ Zusätzlich haben wir für jedes Schiff die [ArisCorp Wertung](https://ariscorp.
 
 #### Zukünftige Features
 
-Es folgen noch weitere Funktionen wie eine Vergleichsseite, alle Q\&As auf der jeweilligen Schiffsseite übersetzt, Eine Übersichtsseite dafür, welche Fahrzeuge und Schiffe in welche Schiffe passen, wo man welche Schiffe kaufen kann, ein booklet änlicher Viewer für Broschüren, ein 3d Viewer für jedes Schiffsmodell und noch mehr!
+Es folgen noch weitere Funktionen wie eine Vergleichsseite, alle Q\&As auf der jeweiligen Schiffsseite übersetzt, Eine Übersichtsseite dafür, welche Fahrzeuge und Schiffe in welche Schiffe passen, wo man welche Schiffe kaufen kann, ein booklet ähnlicher Viewer für Broschüren, ein 3d Viewer für jedes Schiffsmodell und noch mehr!
 
 Zusätzlich sind wir dabei ein eigenes tool für das unpacken der P4K Daten zu entwickeln. Dieses würde 100%ige korrektheit und Aktualität unserer Daten bedeuten. Dazu wären sie kurz nach einem Patch direkt auf der Website vorhanden. Dieses Tool wird auch öffentlich zugänglich sein!
 
 ### **✨ Major Feature 2**
 
+Wir haben nun die V1 von unserem [ArisCorp Management System](https://ariscorp.de/internal)!
+
+Die erste Version des AMS beinhaltet einen Privaten Hangar für jedes Mitglied, eine interne Flotten Ansicht, ein Admin Tool für die Verwaltung und eine Profilseite auf der jedes Mitglied seinen Charakter anpassen und eine Biografie schreiben kann.
+
+Das AMS wird zukünftig noch weitaus mehr Features bekommen, allerdings sind wir sehr glücklich nun dadurch wieder eine öffentliche Flottenansicht haben zu können, in der jedes Mitglied selbst entscheiden kann welche Schiffe er, welcher Abteilung zur Verfügung stellen möchte.&#x20;
+
+### **✨ Major Feature 3**
+
 Zu dem Waffenindex kommt nun ein [Attachment Index](https://ariscorp.de/VerseExkurs/attachments)!
 
 Hier können sie alles über die Waffenaufsätze des Verse erfahren.
 
-### **✨ Major Feature 3**
+### **✨ Major Feature 4**
 
 Die Mitglieder [Biografie-Seite](https://ariscorp.de/biografie/Thomas%20Blakeney) wurde komplett reworked und mit einem neuem Layout versehen. Das macht es möglich für jedes Mitglied spezielle Features zu entwickeln, wie zum Beispiel das einbinden einer Doktorarbeit.
 
-Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://ariscorp.de/ShipExkurs) und den [Waffen Index](https://ariscorp.de/VerseExkurs/waffen) erstellt, so das alle Mitglieder ihre Schiffe oder Liebingswaffen anzeigen lassen können!
+Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://ariscorp.de/ShipExkurs)/das [AMS](https://ariscorp.de/internal) erstellt, so das alle Mitglieder ihren Hangar nun öffentlich anzeigen lassen können.
 
 ### **✨ New Features**
 
-* [Major Feature 1](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-1): ShipExkurs
-* [Major Feature 2](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-2): Attachment Index
-* [Major Feature 3](version-2.5-das-letzte-grosse-puzzleteil.md#major-feature-3): Neue Biografie Sektion
+* [Major Feature 1](version-3.0-das-letzte-grosse-puzzleteil.md#major-feature-1): ShipExkurs
+* [Major Feature 2:](version-3.0-das-letzte-grosse-puzzleteil.md#major-feature-2) ArisCorp Management System
+* [Major Feature 3](version-3.0-das-letzte-grosse-puzzleteil.md#major-feature-2)[:](version-3.0-das-letzte-grosse-puzzleteil.md#major-feature-3) Attachment Index
+* [Major Feature 4](version-3.0-das-letzte-grosse-puzzleteil.md#major-feature-4): Neue Biografie Sektion
+* VerseExkurs(Geschichte): Die Timeline wurde komplett überarbeitet.
+* Homepage: Die [Abteilungsansicht](https://ariscorp.de/?our=2#our) wurde komplett reworked.
+* Homepage: Die [Flottenansicht](https://ariscorp.de/?our=1#our) läuft nun über unser hauseigenes [AMS](https://ariscorp.de/internal) und nicht mehr über FleetYards!.
 * VerseExkurs(Firmen): Es werden nun [Produkte einer Firma](https://ptu.ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) aufgelistet.
 * VerseExkurs(Technologien): Der Waffen Index hat nun Hersteller als Filter Funktion
 
 ### **🚀 Improvements**
 
+* VerseExkurs: Die Seitenleiste des ShipExkurs hat nun neue Icons
 * VerseExkurs(Technologien): Die Waffen Index Auswahlkarten wurden reworked
 * VerseExkurs(Technologien): Die Waffen Index-Auswahlseite wurde reworked
 * VerseExkurs(Technologien): Die Waffen Index Detailseite wurde reworked
@@ -75,15 +88,10 @@ Zusätzlich haben wir noch eine Integration für den [ShipExkurs](https://arisco
 
 ### **🛠 Now in Development**
 
-* [Weitere Features des ShipExkurs](version-2.5-das-letzte-grosse-puzzleteil.md#zukuenftige-features)
+* [Weitere Features des ShipExkurs](version-3.0-das-letzte-grosse-puzzleteil.md#zukuenftige-features)
 * Der Amor Index
-* Interner Bereich mit Sektionen für jede Abteilung, Missionsersteller, Schiff Loadout creator und vielem mehr!
 
 ### **🛠 Features für zukünftige Versionen**
 
-* ArisCorp Komponenten Index
-* ArisCorp Medizinausrüstungs Index
-* ArisCorp Werkzeug Index
-* ArisCorp Schiffswaffen Index
 * ArisCorp P4K Unpacking Tool
 * Neues Changelog, Release-Notes und Doc System

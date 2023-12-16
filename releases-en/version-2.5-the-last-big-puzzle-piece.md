@@ -4,13 +4,13 @@ cover: >-
 coverY: 0
 ---
 
-# Version 2.5: The last big puzzle piece
+# Version 3.0: The last big puzzle piece
 
 ### **📢 Introduction**
 
-**Here are we with the update 2.5!**
+**Here are we with the update 3.0!**
 
-The update 2.5 is another big step for the ArisCorp Website! It's the last big piece of the puzzle that was missing on the website.
+The update 3.0 is another big step for the ArisCorp Website! It's the last big piece of the puzzle that was missing on the website.
 
 ### **✨ Major Feature 1**
 
@@ -38,23 +38,35 @@ This tool will also be public available!
 
 ### **✨ Major Feature 2**
 
+We are proud to announce the [ArisCorp Management System](https://ariscorp.de/internal)!
+
+The first Version of the AMS inlcudes following features: a private hangar for every member, a internal fleet view, an admin tool for the administration and a profile site where every member can change his character and write a biography.
+
+The AMS will have many more features in the future, but we are very happy that we have now a all new public fleet view where every member can deside which ship are displayed in which department.
+
+### **✨ Major Feature 3**
+
 An [Attachmentindex](https://ariscorp.de/VerseExkurs/attachments) is now added to the Weapon Index!
 
 You can learn all about the Verse weapon attachments here.
 
-### **✨ Major Feature 3**
+### **✨ Major Feature 4**
 
 The member [biography page](https://ariscorp.de/biografie/Thomas%20Blakeney) are completely reworked and in a new layout with special customization features (on request)
 
-Additionally we have created an integration for the [ShipExkurs](https://ariscorp.de/ShipExkurs) and the [Weapons Index](https://ariscorp.de/VerseExkurs/waffen), so that all members can display their ships or favorite weapons!
+Additionally we have created an integration for the [ShipExkurs](https://ariscorp.de/ShipExkurs), so that all members can display their hangar!
 
 ### **✨ New Features**
 
 * [Major Feature 1](version-2.5-the-last-big-puzzle-piece.md#major-feature-1): ShipExkurs
-* [Major Feature 2](version-2.5-the-last-big-puzzle-piece.md#major-feature-2): Attachment index
-* [Major Feature 3](version-2.5-the-last-big-puzzle-piece.md#major-feature-3): New biography section
+* [Major Feature 2](version-2.5-the-last-big-puzzle-piece.md#major-feature-2): ArisCorp Management System
+* [Major Feature 3:](version-2.5-the-last-big-puzzle-piece.md#major-feature-3) Attachment index
+* [Major Feature 4](version-2.5-the-last-big-puzzle-piece.md#major-feature-4): New biography section
+* VerseExkurs(Geschichte): The timeline are completely reworked.
 * VerseExkurs(Companies): [Products from one company](https://ariscorp.de/VerseExkurs/firmen/Aegis%20Dynamics#products) are now listed.
 * VerseExkurs(Technologies): The weapon index now has manufacturer as a filter function
+* Homepage: The [department section](https://ariscorp.de/?our=2#our) are completely reworked.
+* Homepage: The [fleet view](https://ariscorp.de/?our=1#our) are now running over our [AMS](https://ariscorp.de/internal) and doesnt use anymore fleetyards!.
 
 ### **🚀 Improvements**
 
@@ -82,13 +94,8 @@ Additionally we have created an integration for the [ShipExkurs](https://ariscor
 
 * [Further features of the ShipExkurs](version-2.5-the-last-big-puzzle-piece.md#future-features)
 * The armor index
-* Internal area with sections for departments, mission creator, ship loadout creator and many more!
 
 ### **🛠 Features für zukünftige Versionen**
 
-* ArisCorp component index
-* ArisCorp medical equipment index
-* ArisCorp tools index
-* ArisCorp shipweapon index
 * ArisCorp P4K Unpacking Tool
 * new changelog, release-notes and doc system
